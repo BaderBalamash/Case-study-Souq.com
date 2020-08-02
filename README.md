@@ -1,2 +1,0 @@
-# Case-study-Souq.com
-A full scale analysis was conducted on souq.com which includes: background information, company strategy on the multinational level, operation managing which includes: starting from the order of the customer to the delivery of goods, online payments, after sale services, and creating &amp; managing traffic, Amazon acquisition, future plans, quality, productivity, and inventory.
